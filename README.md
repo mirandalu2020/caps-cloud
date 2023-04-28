@@ -17,8 +17,10 @@ Using only AWS Services: SQS, SNS, and client applications, create a cloud versi
 ## Expected Output
 
 Driver: 
+
 ![driver message](driver-message.png)
 
 Vendor:
+
 ![vendor success message](vendor-message.png)
 ![SNS on AWS](vendor-sns.png)
